@@ -1,5 +1,5 @@
 <template>
-  <view class="w-[100vw] h-[100vh]">
+  <view>
     <swiper
       class="demo-swiper"
       :circular="true"
